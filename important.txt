@@ -1,0 +1,1 @@
+# pip install完成后，进行python -m unidic download

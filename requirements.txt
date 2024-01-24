@@ -1,0 +1,12 @@
+openai
+pydub
+sounddevice
+scipy
+gradio
+TTS==0.22.0
+transformers==4.36.2
+cutlet
+mecab-python3
+unidic-lite
+unidic
+playsound
